@@ -55,9 +55,9 @@ section {
 
 .btn-primary {
   background-color: #00e6a8;
-  border-color: #fed136; }
+  border-color: #00e6a8; }
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-    background-color: #fec810 !important;
+    background-color: #00e6a8 !important;
     border-color: #fec810 !important;
     color: white; }
   .btn-primary:active, .btn-primary:focus {
